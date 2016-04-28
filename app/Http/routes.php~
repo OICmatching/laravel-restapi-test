@@ -15,4 +15,4 @@
     return view('welcome');
 });*/
 
-Route::resource('test','TestController');
+Route::resource('test','testController');
